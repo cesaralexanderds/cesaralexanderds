@@ -42,8 +42,8 @@ I am a Computer Science student and Software Developer focused on bridging data 
 ### Contact
 
 * **Portfolio:** [cesaralexander.dev](https://cesaralexander.dev)
-* **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/c-a-d-s/)
-* **Email:** [your-email@example.com](mailto:cesar.alexanderds@gmail.com)
+* **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/c-a-d-s/)
+* **Email:** [cesar.alexanderds@gmail.com](mailto:cesar.alexanderds@gmail.com)
 
 ---
 
