@@ -26,7 +26,7 @@ I am a Computer Science student and Software Developer focused on bridging data 
 
 ### Selected Projects
 
-* **[VLRCards](https://cesaralexander.dev/)**: A FIFA-style rating system and player database for VALORANT. Features a Python ETL pipeline scraping VCT data, a SQLite database, a FastAPI backend, and a modern Next.js frontend.
+* **[VLRCards](https://vlrcards.com/)**: A FIFA-style rating system and player database for VALORANT. Features a Python ETL pipeline scraping VCT data, a SQLite database, a FastAPI backend, and a modern Next.js frontend.
 * **PSell Kitchen Dashboard**: Designed a real-time, bidirectional sync architecture for kitchen operations using Supabase Realtime and PowerSync.
 * **Secure Distributed Banking Ledger**: Architected a secure RESTful API for financial transaction processing with JWT authentication, built using C# .NET and MySQL.
 
@@ -42,8 +42,8 @@ I am a Computer Science student and Software Developer focused on bridging data 
 ### Contact
 
 * **Portfolio:** [cesaralexander.dev](https://cesaralexander.dev)
-* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/c-a-d-s/)
+* **Email:** [your-email@example.com](mailto:cesar.alexanderds@gmail.com)
 
 ---
 
