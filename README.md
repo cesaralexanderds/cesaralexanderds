@@ -1,6 +1,6 @@
 # Hi, I'm Cesar Alexander
 
-**Data Engineer Intern @ Grupo DEACERO | Computer Science Student @ UANL**
+**Data Engineer @ Grupo DEACERO | Computer Science Graduate**
 
 I am a Computer Science student and Software Developer focused on bridging data engineering with modern web development. I am passionate about optimizing cloud data pipelines, automating workflows, and building scalable user interfaces.
 
