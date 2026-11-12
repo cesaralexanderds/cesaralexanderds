@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120" role="img" aria-label="2,468 total contributions">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120" role="img" aria-label="2,747 total contributions">
   <style>
     .label { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c792ea; }
     .value { font: 700 40px 'Segoe UI', Ubuntu, sans-serif; fill: #ffffff; }
@@ -6,6 +6,6 @@
   </style>
   <rect width="360" height="120" rx="10" fill="#292d3e"/>
   <text x="180" y="32" text-anchor="middle" class="label">Total Contributions</text>
-  <text x="180" y="78" text-anchor="middle" class="value">2,468</text>
+  <text x="180" y="78" text-anchor="middle" class="value">2,747</text>
   <text x="180" y="102" text-anchor="middle" class="sub">2023 - Present · public + private</text>
 </svg>
